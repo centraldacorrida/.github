@@ -15,4 +15,4 @@ Nossos repositórios apoiam diferentes áreas da plataforma, incluindo:
 - planejamento e operação;
 - atendimento e suporte.
 
-Alguns projetos são privados para proteger informações técnicas e operacionais.
+Este espaço reúne os projetos públicos e recursos institucionais da Central da Corrida.
